@@ -1,5 +1,8 @@
-package a;
+
 import org.junit.jupiter.api.Test;
+
+//import Lecturer;
+
 import static org.junit.jupiter.api.Assertions.*;
 import org.joda.time.DateTime;
 public class TestLecturer {
